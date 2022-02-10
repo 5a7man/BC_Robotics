@@ -1,2 +1,2 @@
-# BC_Robotics
-Behavioural and Cognitive Robotics 
+# Behavioural and Cognitive Robotics
+Course work
